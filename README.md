@@ -1,6 +1,6 @@
 # Image2MarkUp
 
-STEPS INVLOVED- 
+**STEPS INVLOVED-**
 
 1- Preprocessing of Images in the Dataset <br>
 	a) Resizing the dataset: pixel value taken is 600x600 <br>
