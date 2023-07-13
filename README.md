@@ -1,6 +1,5 @@
 # Image2MarkUp
 
-**STEPS INVLOVED-**
 A Digital Conversion of hand-Drawn flowcharts that clearly explains the approach of a
 problem solver using Deep learning. Flowcharts , UML Models ,Finite automata are key
 artifacts in Software engineers contexts.
@@ -19,7 +18,7 @@ Image2MarkUp considerably improves upon existing works in terms of both recognit
 and scope.It provides comprehensive transformation of hand drawn flowcharts , including
 proper handling of textual labels and message flows.It reliably recognizes hand-drawn
 flowcharts from scanned images and hence remove undesirable friction in workflow.
-
+**STEPS INVLOVED-**
 
 1- Preprocessing of Images in the Dataset <br>
 	a) Resizing the dataset: pixel value taken is 600x600 <br>
