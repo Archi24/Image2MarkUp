@@ -28,4 +28,7 @@ flowcharts from scanned images and hence remove undesirable friction in workflow
 2- Annotated images using Roboflow
 
 3- Object detection using YOLOv8 - single stage neural network
+4- Identification of Text to a particular notation using regex statements and coordinates.
+5- TrOCR for text recognition 
+
 
