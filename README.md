@@ -29,6 +29,8 @@ flowcharts from scanned images and hence remove undesirable friction in workflow
 
 3- Object detection using YOLOv8 - single stage neural network
 4- Identification of Text to a particular notation using regex statements and coordinates.
-5- TrOCR for text recognition 
+5- TrOCR for text recognition
+![image](https://github.com/Archi24/Image2MarkUp/assets/78952113/da175e82-5c6c-4778-80f2-77c1019c3966)
+
 
 
